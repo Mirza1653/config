@@ -1,0 +1,13 @@
+    
+      
+build:
+  version: "1.0"
+  
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs "
+  contactDetails:
+    name: "Poorna Chandra yedla - Product Owner"
+    email: "poorna@centella.co.in"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
